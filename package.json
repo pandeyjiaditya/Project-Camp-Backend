@@ -1,0 +1,27 @@
+{
+  "name": "projectcamp",
+  "version": "1.0.0",
+  "description": "a project management for beginners",
+  "keywords": [
+    "udemy",
+    "course",
+    "backend",
+    "API",
+    "creation"
+  ],
+  "homepage": "https://github.com/pandeyjiaditya/Project-Camp-Backend#readme",
+  "bugs": {
+    "url": "https://github.com/pandeyjiaditya/Project-Camp-Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandeyjiaditya/Project-Camp-Backend.git"
+  },
+  "license": "ISC",
+  "author": "Aditya Pandey",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
