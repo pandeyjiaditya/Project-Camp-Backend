@@ -19,9 +19,9 @@
   },
   "license": "ISC",
   "author": "Aditya Pandey",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node index.js"
   }
 }
