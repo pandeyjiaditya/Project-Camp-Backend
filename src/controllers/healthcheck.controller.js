@@ -3,7 +3,7 @@ import { asyncHandler } from "../utils/async-handler.js";
 
 /*
 const healthCheck = async(req, res, next) => {
-    try {
+    try { git
         const user = await getUserFromDB()
         res
             .status(200)
