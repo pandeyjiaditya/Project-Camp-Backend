@@ -33,7 +33,6 @@ Project Camp Backend is a RESTful API service designed to support collaborative 
 - **Project Listing:** View all projects user has access to with member count
 - **Project Details:** Access individual project information
 - **Project Updates:** Modify project information (Admin only)
-
 - **Project Deletion:** Remove projects (Admin only)
 
 #### 3.3 Team Member Management
